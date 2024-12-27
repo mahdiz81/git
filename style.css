@@ -4,5 +4,6 @@
     box-sizing: border-box;
 }
 body{
-    background-color: lightgreen;
+    font-size: 30px;
+    font-weight: 600;
 }
